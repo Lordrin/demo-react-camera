@@ -8,7 +8,7 @@ The system must have the following packages installed:
 npm or yarn
 ```
 ```
-Android Studio version 2021.3.1 Patch 1
+Android Studio version 2021.3.1 Patch 1 ot higher
 ```
 ```
 node v16.18.0 or higher
